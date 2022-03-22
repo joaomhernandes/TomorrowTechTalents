@@ -1,4 +1,4 @@
-<img alt="logo banco pan e gama academy" src="https://github.com/joaomhernandes/TomorrowTechTalents/tree/main/assets/TomorrowTechTalentsLogo.svg" style="width: 300%, height: auto, margin-left: auto, margin-left: auto" />
+<img alt="logo Tomorrow Tech Talents" src="https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/assets/TomorrowTechTalentsLogo.svg" style="width: 300%, height: auto, margin-left: auto, margin-left: auto" />
 
 # Tomorrow Tech Talents: Repositório de atividades realizadas
 
