@@ -22,7 +22,14 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 
 1. [Hello World](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/HelloWord.java) - The first step, The Hello World!!
 2. [Conversão de kg para lb](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/ConversaoKgLb.java) - A simple conversion program, to learn about variables, constants and basic operations. 
-
+3. [Basics Operations](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/ConversaoKgLb.java) - A simple program, to learn about Scanner, math operations, println and printf. 
+4. [Math Power](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/MathPower.java) - A simple program, to learn about Scanner, conditionals, println, printf and Math.pow.
+5. [Money Converter](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/MoneyConverter.java) - A simple money converter program, to learn about Scanner, println, printf and use of BigDecimal. 
+6. [Multiplication Table](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/MultiplicationTable.java) - A simple Multiplication table program, to learn about Scanner, println, printf conditionals and loops. 
+7. [Place of Birth](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/PlaceOfBirth.java) - A simple program, to learn about Switch case. 
+8. [Profit Calculator](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/ProfitCalculator.java) - A simple proft calculator, to learn about BigDecimal, Scanner and Conditionals 
+9. [Temperature Converter](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/TemperatureConverter.java) - A simple temperature converter program, to learn about Scanner, println, printfand basic operations. 
+10. [Unit Converter](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/UnitConverter.java) - A simple unit converter program, converts inchs to centimeters, to learn about Scanner, println, printfand basic operations.
 
 
 ## Contato
