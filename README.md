@@ -30,6 +30,15 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 8. [Profit Calculator](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/ProfitCalculator.java) - A simple proft calculator, to learn about BigDecimal, Scanner and Conditionals 
 9. [Temperature Converter](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/TemperatureConverter.java) - A simple temperature converter program, to learn about Scanner, println, printfand basic operations. 
 10. [Unit Converter](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/UnitConverter.java) - A simple unit converter program, converts inchs to centimeters, to learn about Scanner, println, printfand basic operations.
+11. [Uppercase Odd Letters](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/UppercaseOddLetters.java) - A simple program that put the odds letter in a word in uppercase, to learn about Scanner, loops, conditionals and arrays. 
+12. [String Inverter](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/StringInverter.java) - A simple word inverter program, to learn about Scanner, loops, conditionals and arrays.
+13. [Oldest and Youngest Person](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/OldestYoungestPerson.java) - A simple program that find the oldest and the youngest person in a list, to learn about Scanner, loops, conditionals and arrays. 
+14. [Longest Name](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/LongestName.java) - A simple program that find the longest name in a list, to learn about Scanner, loops, conditionals and arrays.  
+15. [IMC Out Of Ideal](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/PlaceOfBirth.java) - A simple program thar calculate the BMI of a list os persons, and says if some one is out of the ideal BMI range, to learn about Scanner, loops, conditionals and arrays. 
+16. [Highest, Lowest and Average](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/HighestLowestAverage.java) - A simple program that find the Highest, the lowest and calculate the averge of a 5 numbers list, to learn about Scanner, loops, conditionals and arrays.
+17. [Fruit Basket](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/FruitBasket.java) - A simple program that recive a list of fruits and print them, to learn about Scanner, loops, conditionals and arrays. 
+18. [Even and Odd Numbers](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/EvenOddNumbers.java) - A simple program that receives 5 numbers, 
+separates the even and the odd numbers, then prints the evens ones first, then prints the odds ones, converts inchs to centimeters, to learn about Scanner, loops, conditionals and arrays.
 
 
 ## Contato
