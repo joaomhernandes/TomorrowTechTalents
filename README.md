@@ -39,7 +39,7 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 17. [Fruit Basket](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/FruitBasket.java) - A simple program that recive a list of fruits and print them, to learn about Scanner, loops, conditionals and arrays. 
 18. [Even and Odd Numbers](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/CodingTank/EvenOddNumbers.java) - A simple program that receives 5 numbers, 
 separates the even and the odd numbers, then prints the evens ones first, then prints the odds ones, converts inchs to centimeters, to learn about Scanner, loops, conditionals and arrays.
-
+19. [Tik Tak Toe](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/TikTakToe) - The last exercise proposed in the Coding Tank, Tik Tak Toe. A basic logic was implemented without much concern for the application architecture. The main intention was to try to use Java Swing to give a better aesthetic to the application.
 
 ## Contato
 
