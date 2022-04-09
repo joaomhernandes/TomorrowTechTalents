@@ -1,4 +1,4 @@
-package CodingTank;
+package codingTank;
 
 import java.math.BigDecimal;
 import java.util.Scanner;

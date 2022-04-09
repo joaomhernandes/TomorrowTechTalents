@@ -1,4 +1,4 @@
-package CodingTank;
+package codingTank;
 
 public class ConversaoKgLb {
     static final double FATOR_CONVERSAO_KG_LB = 2.20462;

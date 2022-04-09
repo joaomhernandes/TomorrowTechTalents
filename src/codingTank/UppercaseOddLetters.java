@@ -1,4 +1,4 @@
-package CodingTank;
+package codingTank;
 
 import java.util.Scanner;
 

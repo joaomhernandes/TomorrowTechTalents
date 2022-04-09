@@ -1,4 +1,4 @@
-package TikTakToe;
+package tikTakToe;
 
 import javax.swing.SwingUtilities;
 

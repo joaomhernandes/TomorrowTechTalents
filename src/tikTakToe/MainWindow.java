@@ -1,4 +1,4 @@
-package TikTakToe;
+package tikTakToe;
 
 import java.awt.Color;
 import java.awt.GridLayout;
@@ -11,6 +11,7 @@ public class MainWindow {
 
     private JFrame frame;
     private final String[][] positions = new String[3][3];
+    int  playNumber = 0;
 
     JButton button11 = new JButton();
     JButton button12 = new JButton();
@@ -53,6 +54,7 @@ public class MainWindow {
             button11.setIcon(circle);
             positions[0][0] = "J";
             button11.setEnabled(false);
+            checkWinner();
             machineTurn();
         });
 
@@ -62,6 +64,7 @@ public class MainWindow {
             button12.setIcon(circle);
             positions[0][1] = "J";
             button12.setEnabled(false);
+            checkWinner();
             machineTurn();
         });
 
@@ -71,6 +74,7 @@ public class MainWindow {
             button13.setIcon(circle);
             positions[0][2] = "J";
             button13.setEnabled(false);
+            checkWinner();
             machineTurn();
         });
 
@@ -80,6 +84,7 @@ public class MainWindow {
             button21.setIcon(circle);
             positions[1][0] = "J";
             button21.setEnabled(false);
+            checkWinner();
             machineTurn();
         });
 
@@ -89,6 +94,7 @@ public class MainWindow {
             button22.setIcon(circle);
             positions[1][1] = "J";
             button22.setEnabled(false);
+            checkWinner();
             machineTurn();
         });
 
@@ -98,6 +104,7 @@ public class MainWindow {
             button23.setIcon(circle);
             positions[1][2] = "J";
             button23.setEnabled(false);
+            checkWinner();
             machineTurn();
         });
 
@@ -107,6 +114,7 @@ public class MainWindow {
             button31.setIcon(circle);
             positions[2][0] = "J";
             button31.setEnabled(false);
+            checkWinner();
             machineTurn();
         });
 
@@ -116,6 +124,7 @@ public class MainWindow {
             button32.setIcon(circle);
             positions[2][1] = "J";
             button32.setEnabled(false);
+            checkWinner();
             machineTurn();
         });
 
@@ -125,6 +134,7 @@ public class MainWindow {
             button33.setIcon(circle);
             positions[2][2] = "J";
             button33.setEnabled(false);
+            checkWinner();
             machineTurn();
         });
 
@@ -234,8 +244,12 @@ public class MainWindow {
             message = "Infelizmente você perdeu!!";
             endGame(message);
         }
-
-
+        if (!positions[0][0].equals("") && !positions[0][1].equals("") && !positions[0][2].equals("") &&
+                !positions[1][0].equals("") && !positions[1][1].equals("") && !positions[1][2].equals("") &&
+                !positions[2][0].equals("") && !positions[2][1].equals("") && !positions[2][2].equals("")) {
+            message = "A partida teminou empatada!!";
+            endGame(message);
+        }
     }
 
     private void endGame(String message) {
@@ -259,6 +273,7 @@ public class MainWindow {
                 positions[i][j] = "";
             }
         }
+        playNumber = 0;
         button11.setIcon(null);
         button12.setIcon(null);
         button13.setIcon(null);

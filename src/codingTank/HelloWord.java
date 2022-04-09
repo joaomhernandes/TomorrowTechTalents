@@ -1,4 +1,4 @@
-package CodingTank;
+package codingTank;
 
 public class HelloWord {
     public static void main(String[] args) {
