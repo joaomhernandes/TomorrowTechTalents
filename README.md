@@ -43,6 +43,8 @@ separates the even and the odd numbers, then prints the evens ones first, then p
 
 ### Tomorrow Tech Talents course
 
+#### Class 1
+
 1. [Temperature Converter](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/TemperatureConverter.java) - A temperature converter, that convert a temperature in Celsius to Kelvin, Fahrenheit, Rankine and Réaumur.
 2. [Horse Power](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/HorsePower.java) - This program calculates how much horsepower is need to lift a mass.
 3. [Compound Interest Loan](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/CompoundInterestLoan.java) - This program calculates the amount you have to pay in a Compound Interest Loan.
