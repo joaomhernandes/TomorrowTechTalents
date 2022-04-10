@@ -41,7 +41,7 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 separates the even and the odd numbers, then prints the evens ones first, then prints the odds ones, converts inchs to centimeters, to learn about Scanner, loops, conditionals and arrays.
 19. [Tik Tak Toe](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/tikTakToe) - The last exercise proposed in the Coding Tank, Tik Tak Toe. A basic logic was implemented without much concern for the application architecture. The main intention was to try to use Java Swing to give a better aesthetic to the application.
 
-### Tomorrow Tech Talents course
+### Training Program
 
 #### Class 1
 
@@ -55,6 +55,11 @@ separates the even and the odd numbers, then prints the evens ones first, then p
 8. [Gas Consumption](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/GasConsumption.java) - This program calculates a fuel consumption of a car.
 9. [Grades](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/Grades.java) - This program calculates the average grade of a student.
 10. [Investment](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/Investment.java) - This program calculates the income from an investment.
+11. [Forward Sale](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/ForwardSale.java) - This program calculates the installment for a forward sale.
+12. [Sale Price](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/SalePrice.java) - This program calculates the sale price of a product.
+13. [Final Cost](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/FinalCost.java) - This program calculates the final cost for the end consumer.
+14. [Circle Area](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/CircleArea.java) - This program calculates a circle area.
+15. [Horseshoes Number](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/HorseshoesNumber.java) - This program calculates the amount of horse shoes needed for a number of horses.
 
 
 ## Contato
