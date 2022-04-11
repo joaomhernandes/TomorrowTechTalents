@@ -1,34 +1,31 @@
 package tikTakToe.components;
 
-import tikTakToe.MainWindow;
-
-public class Reset {
-
-    static public void reset() {
+class Reset {
+    static void reset() {
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
-                MainWindow.positions[i][j] = "";
+                MainWindow.getPositions()[i][j] = "";
             }
         }
-        MainWindow.button11.setIcon(null);
-        MainWindow.button12.setIcon(null);
-        MainWindow.button13.setIcon(null);
-        MainWindow.button21.setIcon(null);
-        MainWindow.button22.setIcon(null);
-        MainWindow.button23.setIcon(null);
-        MainWindow.button31.setIcon(null);
-        MainWindow.button32.setIcon(null);
-        MainWindow.button33.setIcon(null);
+        MainWindow.getButton11().setIcon(null);
+        MainWindow.getButton12().setIcon(null);
+        MainWindow.getButton13().setIcon(null);
+        MainWindow.getButton21().setIcon(null);
+        MainWindow.getButton22().setIcon(null);
+        MainWindow.getButton23().setIcon(null);
+        MainWindow.getButton31().setIcon(null);
+        MainWindow.getButton32().setIcon(null);
+        MainWindow.getButton33().setIcon(null);
 
-        MainWindow.button11.setEnabled(true);
-        MainWindow.button12.setEnabled(true);
-        MainWindow.button13.setEnabled(true);
-        MainWindow.button21.setEnabled(true);
-        MainWindow.button22.setEnabled(true);
-        MainWindow.button23.setEnabled(true);
-        MainWindow.button31.setEnabled(true);
-        MainWindow.button32.setEnabled(true);
-        MainWindow.button33.setEnabled(true);
+        MainWindow.getButton11().setEnabled(true);
+        MainWindow.getButton12().setEnabled(true);
+        MainWindow.getButton13().setEnabled(true);
+        MainWindow.getButton21().setEnabled(true);
+        MainWindow.getButton22().setEnabled(true);
+        MainWindow.getButton23().setEnabled(true);
+        MainWindow.getButton31().setEnabled(true);
+        MainWindow.getButton32().setEnabled(true);
+        MainWindow.getButton33().setEnabled(true);
     }
 
 }
