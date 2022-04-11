@@ -1,8 +1,8 @@
-package tikTakToe.assets;
+package tikTakToe.components;
 
 import static tikTakToe.MainWindow.*;
-import static tikTakToe.assets.CheckWinner.checkWinner;
-import static tikTakToe.assets.MachineTurn.machineTurn;
+import static tikTakToe.components.CheckWinner.checkWinner;
+import static tikTakToe.components.MachineTurn.machineTurn;
 
 public class CreateButtons {
     public static void createButtons(){

@@ -1,7 +1,7 @@
-package tikTakToe.assets;
+package tikTakToe.components;
 
 import static tikTakToe.MainWindow.positions;
-import static tikTakToe.assets.EndGame.endGame;
+import static tikTakToe.components.EndGame.endGame;
 
 public class CheckWinner {
     public static void checkWinner() {

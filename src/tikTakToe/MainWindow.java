@@ -4,7 +4,7 @@ import java.awt.Color;
 import java.awt.GridLayout;
 import java.awt.BorderLayout;
 import javax.swing.*;
-import static tikTakToe.assets.CreateButtons.createButtons;
+import static tikTakToe.components.CreateButtons.createButtons;
 
 public class MainWindow {
 

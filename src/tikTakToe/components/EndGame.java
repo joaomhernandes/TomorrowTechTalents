@@ -1,8 +1,8 @@
-package tikTakToe.assets;
+package tikTakToe.components;
 
 import javax.swing.*;
 
-import static tikTakToe.assets.Reset.reset;
+import static tikTakToe.components.Reset.reset;
 
 public class EndGame {
     static public void endGame(String message) {

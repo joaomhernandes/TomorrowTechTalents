@@ -1,9 +1,9 @@
-package tikTakToe.assets;
+package tikTakToe.components;
 
 import java.util.Random;
 
 import static tikTakToe.MainWindow.positions;
-import static tikTakToe.assets.DisableButton.disableButton;
+import static tikTakToe.components.DisableButton.disableButton;
 
 public class MachineTurn {
     static public void machineTurn() {

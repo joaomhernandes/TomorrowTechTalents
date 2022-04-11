@@ -1,7 +1,7 @@
-package tikTakToe.assets;
+package tikTakToe.components;
 
 import static tikTakToe.MainWindow.*;
-import static tikTakToe.assets.CheckWinner.checkWinner;
+import static tikTakToe.components.CheckWinner.checkWinner;
 
 public class DisableButton {
     static public void disableButton(int i, int j) {

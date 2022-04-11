@@ -1,4 +1,4 @@
-package tikTakToe.assets;
+package tikTakToe.components;
 
 import tikTakToe.MainWindow;
 
