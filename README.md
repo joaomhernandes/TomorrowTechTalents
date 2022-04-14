@@ -22,6 +22,7 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 
 1. [Coding Tank](#coding-tank)
 2. [Training Program - Class 1](#class-1)
+3. [Training Program - Class 2](#class-2)
 
 ### Coding Tank
 
@@ -65,6 +66,15 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 13. [Final Cost](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/FinalCost.java) - This program calculates the final cost for the end consumer.
 14. [Circle Area](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/CircleArea.java) - This program calculates a circle area.
 15. [Horseshoes Number](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/HorseshoesNumber.java) - This program calculates the amount of horse shoes needed for a number of horses.
+
+#### Class 2
+
+1. [Average Grade](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula2/AverageGrade.java) - A grade calculator, that receives: the student name, the class name and 3 grades. Then calculate the average.
+2. [Person Information](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula2/PersonInformation.java) - A program, that receives: first name, last name, address, CEP and telephone number. Then prints this information formatted.
+3. [Formatted Info](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula2/FormattedInfo.java) - This program prints a formatted info, like a form.
+4. [Beach Distance](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula2/BeachDistance.java) - A program that receives 5 beaches names and its distances of a hotel, then prints the further beach name, the number of beaches between 10 and 15 km and the average distance to the beaches.
+5. [Fuel Consumption](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula2/FuelConsumption.java) - A program that receives the time spent, and the average speed of a trip, and calculates the amount of fuel spent. 
+6. [Four Numbers Calculation](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula2/FourNumbersCalculation.java) - A program that receive four numbers and calculate the sum of the squares of these numbers.
 
 ## Contato
 
