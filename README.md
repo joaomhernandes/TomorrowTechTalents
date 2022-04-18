@@ -76,6 +76,21 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 5. [Fuel Consumption](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula2/FuelConsumption.java) - A program that receives the time spent, and the average speed of a trip, and calculates the amount of fuel spent. 
 6. [Four Numbers Calculation](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula2/FourNumbersCalculation.java) - A program that receive four numbers and calculate the sum of the squares of these numbers.
 
+#### Class 3
+
+1. [Grade Validation](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/GradeValidation.java) - A program that receives four grads and return if the student were approved or not.
+2. [Positive Or Negative](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/PositiveOrNegative.java) - A program that receives numbers and return if the number is positive or negative, and ends if the number is equal 0.
+3. [Multiples Of Ten](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/MultiplesOfTen.java) - A program that counts from 1 to 100 and informs which numbers are multiples of 10 .
+4. [Descending Order](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/DescendingOrder.java) - A program that receives five numbers and return them in descending order.
+5. [IBM](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/IBM.java) - A program calculates the user's BMI and returns if he is underweight, normal weight, overweight or obese.
+6. [Descending Numbers](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/DescendingNumbers.java) - A program prints numbers from 1 to 100 in descending order.
+7. [Factorial](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/Factorial.java) - A program that receives a number and return its factorial.
+8. [Min Max Average](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/MinMaxAverage.java) - A program that receives ten numbers and return the lower number, the highest number and the average of these numbers.
+9. [Of Age](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/OfAge.java) - A program that receives ten ages and return the number of persons of age.
+10. [FindOutTheNumber](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/FindOutTheNumber.java) - A program that chose, randomly, a number between 1 and 10 and gives 3 attempts to the user finds out it.
+11. [NumbersBetween](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/NumbersBetween.java) - A program that receives two numbers and return the numbers between them.
+12. [Valid Information](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/ValidInformation.java) - A program that receives name, age, salary, gender and marital status, if they are valid, and prints this information.
+
 ## Contato
 
 <a href = "mailto:joaom.hernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
