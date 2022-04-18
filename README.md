@@ -23,6 +23,7 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 1. [Coding Tank](#coding-tank)
 2. [Training Program - Class 1](#class-1)
 3. [Training Program - Class 2](#class-2)
+4. [Training Program - Class 3](#class-3)
 
 ### Coding Tank
 
