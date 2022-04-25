@@ -25,14 +25,12 @@ public class SportsLottery {
         printarray(lotteryResult);
         System.out.println("\nThe Bets made are: ");
         for (int[] bet : bets) {
-            printarray(bet);
+            printarrayBets(bet,lotteryResult);
         }
         winnerVerify(lotteryResult, bets);
         if (numberOfWinners == 0){
             System.out.println("\nThis Sports Lottery had no winner!");
         }
-
-
     }
 
     private static void printarray(int[] array) {
@@ -40,7 +38,23 @@ public class SportsLottery {
         for (int number : array ){
             System.out.printf("%d  ", number);
         }
-        System.out.print("]\n");
+    }
+    private static void printarrayBets(int[] array, int[] lotteryResult) {
+        System.out.print("[  ");
+        for (int number : array ){
+            System.out.printf("%d  ", number);
+        }
+        System.out.printf("] - %-2d hits\n", numberOfHits(array, lotteryResult));
+    }
+
+    private static int numberOfHits(int[] array, int[] lotteryResult) {
+        int hitsNumber = 0;
+        for(int i = 0; i < lotteryResult.length; i++){
+            if( array[i] == lotteryResult[i]){
+                hitsNumber++;
+            }
+        }
+        return hitsNumber;
     }
 
     private static void winnerVerify(int[] lotteryResult, int[][] bets) {
@@ -57,7 +71,6 @@ public class SportsLottery {
                 System.out.printf("\nThe bet nº %d is a Winner!!", i+1);
                 numberOfWinners++;
             }
-
         }
     }
 
@@ -66,7 +79,6 @@ public class SportsLottery {
         for(int i = 0; i < numberBets; i++){
             bets[i] = createArray();
         }
-
         return bets;
     }
 
@@ -74,9 +86,8 @@ public class SportsLottery {
         Random random = new Random();
         int[] array = new int[13];
         for(int i = 0; i < array.length; i++){
-            array[i] = random.nextInt(2) + 1;
+            array[i] = random.nextInt(3) + 1;
         }
         return array;
     }
-
 }

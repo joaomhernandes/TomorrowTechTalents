@@ -1,4 +1,5 @@
-/*      15 - Uma loja está levantando o valor total de todas as mercadorias em estoque. Escreva um algoritmo que permita a entrada das seguintes informações:
+/*      15 - Uma loja levantará o valor total de todas as mercadorias em estoque.
+        Escreva um algoritmo que permita a entrada das seguintes informações:
         a) a quantidade de produtos que irá cadastrar
         b) para cada produto:
          - o nome do produto
@@ -18,7 +19,6 @@ public class StokeTaking {
 
         System.out.println("Enter the quantity of products will be registered.");
         quantityOfProducts = in.nextInt();
-        in.nextLine();
         Product[] productsList = new Product[quantityOfProducts];
         fillProductsList(productsList,in);
 
@@ -37,6 +37,7 @@ public class StokeTaking {
         for (int i = 0; i < productsList.length; i++) {
             Product product = new Product("",0,0);
             System.out.printf("Enter the %dº product name\n", i + 1);
+            in.nextLine();
             product.setName(in.nextLine()) ;
             System.out.printf("Enter the %dº product quantity\n", i + 1);
             product.setQuantity(in.nextInt());
@@ -55,7 +56,7 @@ public class StokeTaking {
             totalPrice += (product.getQuantity() * product.getUnitPrice());
         }
         averagePrice /= productsList.length;
-        System.out.printf("The total value in stock is $%.2f, and the avarege price of the products is $%.2f\n\n",totalPrice, averagePrice);
-
+        System.out.printf("The total value in stock is $%.2f, and the avarege price of the products is $%.2f\n",
+                totalPrice, averagePrice);
     }
 }

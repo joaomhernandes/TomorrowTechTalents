@@ -46,6 +46,7 @@ public class SalarySense {
                         The average salary is $%.2f.
                         The average children number is %.2f
                         The higher salary is $%.2f.
-                        And the percentage of interviewees that have salarys under $150,00 is %.2f%%""",averageSalary, averageNumberOfChildren, higherSalary, percentageSalaryLowerThan);
+                        And the percentage of interviewees that have salarys under $150,00 is %.2f%%""",
+                        averageSalary, averageNumberOfChildren, higherSalary, percentageSalaryLowerThan);
         }
 }
