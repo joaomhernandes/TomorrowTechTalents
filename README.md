@@ -14,7 +14,7 @@ Coding Tank is a preparatory course, with 6 lessons in duration, where applicant
 
 ### Training Program
 
-Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Object Oriented Programming, Programming Techniques, Web Programming, Software Architecture and Automated Tests, in JAVA Language.
+Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Object-Oriented Programming, Programming Techniques, Web Programming, Software Architecture and Automated Tests, in JAVA Language.
 
 ## Activities
 
@@ -24,6 +24,7 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 2. [Training Program - Class 1](#class-1)
 3. [Training Program - Class 2](#class-2)
 4. [Training Program - Class 3](#class-3)
+5. [Training Program - Class 4](#class-4)
 
 ### Coding Tank
 
@@ -91,6 +92,27 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 10. [FindOutTheNumber](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/FindOutTheNumber.java) - A program that chose, randomly, a number between 1 and 10 and gives 3 attempts to the user finds out it.
 11. [NumbersBetween](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/NumbersBetween.java) - A program that receives two numbers and return the numbers between them.
 12. [Valid Information](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/ValidInformation.java) - A program that receives name, age, salary, gender and marital status, if they are valid, and prints this information.
+
+#### Class 4
+
+1. [Random Numbers](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/RandomNumbers.java) - A program that generates 10 random real numbers, stores them in an array and prints them.
+2. [Matrix Example](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/MatrixExample.java) -A program that creates and prints a matrix 2x5.
+3. [The Highest Value Of Matrix](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/TheHighestValueOfMatrix.java) -A program that generates randomly a 10x10 matrix, prints it and finds the highest value of this matrix.
+4. [Matrix Sum](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/MatrixSum.java) -A program that generates randomly a 10x10 integer matrix, prints it and calculates the sum of all its elements.
+5. [Average Value Of Line](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/AverageValueOfLine.java) -A program that generates randomly an ixj integer matrix, prints it and calculates the average value of a line chose by the user.
+6. [Sports Lottery](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/SportsLottery.java) -A program that generates randomly an array with 13 numbers, between 1 and 3, tha represents the result ao Sports lottery, then generates many bets the user wants, and verify if any of them has won the lottery. 
+7. [Grades Verify](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/GradesVerify.java) -A program that generates randomly an array (with 10 positions) G, with the correct answers, a matrix 10x10 to the answers of 10 students, and an array with the name of the 10 students, compares the answers and if the student have 6 or more correct answers, the program prints: "the student's name" was APPROVED!!, else prints: "the student's name" FAILED!!.
+8. [Find Number](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/FindNumber.java) -A program that generates randomly an array with 10 integer values, then the user enters a number that they want search, then the program returns if the number is in the set.
+9. [Matrix Operations](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/MatrixOperations.java) -A program that generates randomly a 3x5 matrix, save the sum of line elements in an array, save the sum of column elements in an array, then print the matrix, the array with line elements sum and the array with column elements sum.
+10. [Banknotes Calculator](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/BanknotesCalculator.java) -A program that receives a value and calculates the minimum amount of banknotes of $100, $50, $20, $10, $5, $2 and $1, that are needed to represent that value.
+11. [DDD List](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/DDDList.java) -A program that receives an integer number and compares with an area code list, if the code exist, it prints de code and the correspondent city.
+12. [Salary Calculator](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/SalaryCalculator.java) -A program that receives a seller's fixed salary and total sales, and calculates the total salary.
+13. [Fuel Discount Calculator](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/FuelDiscountCalculator.java) -A program thatreceives the type of fuel and the volume supplied, and calculates the total price (Alcohol: <= 20L, 4% off, > 20L 6% off. Gasoline: <= 20L, 3% off, > 20L 5% off).
+14. [Age Operations](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/AgeOperations.java) -A program that receives two differents ages of two men andtwo differents ages of two women, them calculates the sum of age of the older man and the younger woman, and the product of age of the younger man and the older woman.
+15. [Stoke Taking](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/exercise15/StokeTaking.java) -A program that
+16. [Find Name](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/FindName.java) -A program that receives 10 names, saves in an array, then recives another name and searches in the array for this name, if it finds print the message "Found!", else prints "Not found!"
+17. [Salary Sense](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/SalarySense.java) -A program that receives salaries and children number, and calculates, the average salary, the average children number, the higher salary, and the percentage of interviewees that have salarys under $150,00. to and the program you need to enter a negative salary.
+
 
 ## Contato
 
