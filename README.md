@@ -25,6 +25,7 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 3. [Training Program - Class 2](#class-2)
 4. [Training Program - Class 3](#class-3)
 5. [Training Program - Class 4](#class-4)
+6. [Training Program - Class 5](#class-5)
 
 ### Coding Tank
 
@@ -113,6 +114,18 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 16. [Find Name](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/FindName.java) -A program that receives 10 names, saves in an array, then recives another name and searches in the array for this name, if it finds print the message "Found!", else prints "Not found!"
 17. [Salary Sense](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/SalarySense.java) -A program that receives salaries and children number, and calculates, the average salary, the average children number, the higher salary, and the percentage of interviewees that have salarys under $150,00. to and the program you need to enter a negative salary.
 
+#### Class 5
+
+1. [Cigarette Money](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/CigaretteMoney.java) - A program that receives the number of years smoked, how many cigarettes smoked a day and the price of cigarette pack (20 cigarettes), and calculates how much did you spent on cigarette already.
+2. [Paycheck](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/Paycheck.java) - A program that receives the payment per hour and number of hours horked per mounth, then calculates union dues, FGTS, income tax and net salary.
+3. [Criminal Investigation](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/CriminalInvestigation.java) - A program that receives answers to 5 questions, then classified the interrogated as innocent, suspect, an accomplice ou the killer.
+4. [Speeding Fine](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/SpeedingFine.java) - A program that receives the max speed of the road and the car speed, then calculates the speeding fine.
+5. [Phonebook](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/Phonebook.java) - A program that uses a dynamic array to create a phonebook, with autoincrement ID, phone number and age (as asked in exercise).
+6. [Blood Donation](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/BloodDonation.java) - A program that receives a person age, and say if this person can donate blood.
+7. [Sales](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/Sales.java) - A program that a type of trasaction and sale price of 15 transactions, then calculates total of cash sale, total of foward sale, total sold, and the first installment of 3x foward sale.
+8. [Weight Average Age](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/WeightAverageAge.java) - A program that receives 7 ages and 7 weights, and prints how many peoples are over 90 kg and the average age.
+9. [Weight Arithimetic Average](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/WeightArithimeticAverage.java) - A program that asks to choose an option(1 - Arithimetic averag; 2 - Weight average; 0 - exit) and, if is a valid option calculates and prints the type os average chosen.
+10. [Film Survey](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/FilmSurvey.java) - A program that asks 5 viewers their opinion about a film, then prints the average age of viewers who rated the film as great,the number of viewers who rated the film as regular and the percentage of viewers who rated the film as good.
 
 ## Contato
 
