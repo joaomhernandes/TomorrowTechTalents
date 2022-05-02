@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Phonebook {
     static int contactID = 0;
     static int addedContacts=0;
-    static int rowSize = 1;
+    static int rowSize = 0;
     static String[][] phonebook = new String[rowSize][3];
 
     public static void main(String[] args) {
@@ -18,7 +18,7 @@ public class Phonebook {
 
 
         while (true) {
-            String option = " ";
+            String option;
             System.out.println("""
                     What do you whant to do?
                     1 - Add a new contact.
@@ -79,7 +79,7 @@ public class Phonebook {
         }
         phonebook[addedContacts] = contact;
         addedContacts++;
-        System.out.println("Contact addes successifuly\n");
+        System.out.println("Contact added successifuly\n");
     }
 
     private static void printContact( Scanner in) {

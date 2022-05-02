@@ -26,6 +26,7 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 4. [Training Program - Class 3](#class-3)
 5. [Training Program - Class 4](#class-4)
 6. [Training Program - Class 5](#class-5)
+7. [Training Program - Class 6](#class-6)
 
 ### Coding Tank
 
@@ -126,6 +127,16 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 8. [Weight Average Age](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/WeightAverageAge.java) - A program that receives 7 ages and 7 weights, and prints how many peoples are over 90 kg and the average age.
 9. [Weight Arithimetic Average](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/WeightArithimeticAverage.java) - A program that asks to choose an option(1 - Arithimetic averag; 2 - Weight average; 0 - exit) and, if is a valid option calculates and prints the type os average chosen.
 10. [Film Survey](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/FilmSurvey.java) - A program that asks 5 viewers their opinion about a film, then prints the average age of viewers who rated the film as great,the number of viewers who rated the film as regular and the percentage of viewers who rated the film as good.
+
+#### Class 6
+
+1. [Jump Competition](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/JumpCompetition.java) - A program that receives many competidors names and jumps as you want, and print their results in the end.
+2. [Paint Store](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/PaintStore.java) - A program that receives an area to be painted, and calculates the amount of paint cans needed and their value.
+3. [Fishing Fine](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/FishingFine.java) - A program that receves the amount kg of fish cought, and if it exceeds the maximun allowed, calculates the fishing fine due. 
+4. [Traffic Statistics](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/TrafficStatistics.java) - A program that receives traffic statistcs of 5 cities, and print some of it. 
+5. [Ideal Weight](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/IdealWeight.java) - A program that receives a hight and a gender, then calculates your ideal weight
+6. [Paint Store 1](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/PaintStore1.java) - A program that receives an area to be painted, and calculates the amount of paint 18L cans, or 3,6L gallons, needed and their value.
+7. [Car Comparison](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/CarComparison.java) - A program that receives an array of car models and an array of car consumption, and prints them, then prints a consumption report.
 
 ## Contato
 
