@@ -20,14 +20,19 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 
 ### Table of Contents
 
-| Module                  	     |                                                                            Activities                                                                                                                                                                     	                                                                            |
-|-------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Programming Logic           	 |1.  [Coding Tank] ( #coding-tank )<br>2.  [Training Program - Class 1] ( #class-1 )<br>3.  [Training Program - Class 2] ( #class-2 )<br>4.  [Training Program - Class 3] ( #class-3 )<br>5.  [Training Program - Class 4] ( #class-4 )<br>6.  [Training Program - Class 5] ( #class-5 )<br>7.  [Training Program - Class 6] ( #class-6) |
-| Object Oriented Programming 	 |                                                                                                                                                                   	                                                                                                                                                                    |
-| Programming Techniques      	 |                                                                                                                                                                   	                                                                                                                                                                    |
-| Web Programming             	 |                                                                                                                                                                   	                                                                                                                                                                    |
-| Software Architecture       	 |                                                                                                                                                                   	                                                                                                                                                                    |
-| Automated tests             	 |                                                                                                                                                                   	                                                                                                                                                                    |
+1. [Coding Tank](#coding-tank)
+2. Training Program - Programming Logic
+  1. [Programming Logic - Class 1](#programming-logic---class-1)
+  2. [Programming Logic - Class 2](#programming-logic---class-2)
+  3. [Programming Logic - Class 3](#programming-logic---class-3)
+  4. [Programming Logic - Class 4](#programming-logic---class-4)
+  5. [Programming Logic - Class 5](#programming-logic---class-5)
+  6. [Programming Logic - Class 6](#programming-logic---class-6)
+3. Object Oriented Programming
+4. Programming Techniques
+5. Web Programming
+6. Software Architecture
+7. Automated tests
 
 ### Coding Tank
 
@@ -54,7 +59,7 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 
 ### Training Program
 
-#### Class 1
+#### Programming Logic - Class 1
 
 1. [Temperature Converter](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/TemperatureConverter.java) - A temperature converter, that convert a temperature in Celsius to Kelvin, Fahrenheit, Rankine and Réaumur.
 2. [Horse Power](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/HorsePower.java) - This program calculates how much horsepower is need to lift a mass.
@@ -72,16 +77,16 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 14. [Circle Area](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/CircleArea.java) - This program calculates a circle area.
 15. [Horseshoes Number](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula1/HorseshoesNumber.java) - This program calculates the amount of horse shoes needed for a number of horses.
 
-#### Class 2
+#### Programming Logic - Class 2
 
 1. [Average Grade](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula2/AverageGrade.java) - A grade calculator, that receives: the student name, the class name and 3 grades. Then calculate the average.
 2. [Person Information](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula2/PersonInformation.java) - A program, that receives: first name, last name, address, CEP and telephone number. Then prints this information formatted.
 3. [Formatted Info](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula2/FormattedInfo.java) - This program prints a formatted info, like a form.
 4. [Beach Distance](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula2/BeachDistance.java) - A program that receives 5 beaches names and its distances of a hotel, then prints the further beach name, the number of beaches between 10 and 15 km and the average distance to the beaches.
-5. [Fuel Consumption](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula2/FuelConsumption.java) - A program that receives the time spent, and the average speed of a trip, and calculates the amount of fuel spent. 
+5. [Fuel Consumption](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula2/FuelConsumption.java) - A program that receives the time spent, and the average speed of a trip, and calculates the amount of fuel spent.
 6. [Four Numbers Calculation](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula2/FourNumbersCalculation.java) - A program that receive four numbers and calculate the sum of the squares of these numbers.
 
-#### Class 3
+#### Programming Logic - Class 3
 
 1. [Grade Validation](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/GradeValidation.java) - A program that receives four grads and return if the student were approved or not.
 2. [Positive Or Negative](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/PositiveOrNegative.java) - A program that receives numbers and return if the number is positive or negative, and ends if the number is equal 0.
@@ -96,14 +101,14 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 11. [NumbersBetween](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/NumbersBetween.java) - A program that receives two numbers and return the numbers between them.
 12. [Valid Information](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula3/ValidInformation.java) - A program that receives name, age, salary, gender and marital status, if they are valid, and prints this information.
 
-#### Class 4
+#### Programming Logic - Class 4
 
 1. [Random Numbers](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/RandomNumbers.java) - A program that generates 10 random real numbers, stores them in an array and prints them.
 2. [Matrix Example](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/MatrixExample.java) -A program that creates and prints a matrix 2x5.
 3. [The Highest Value Of Matrix](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/TheHighestValueOfMatrix.java) -A program that generates randomly a 10x10 matrix, prints it and finds the highest value of this matrix.
 4. [Matrix Sum](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/MatrixSum.java) -A program that generates randomly a 10x10 integer matrix, prints it and calculates the sum of all its elements.
 5. [Average Value Of Line](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/AverageValueOfLine.java) -A program that generates randomly an ixj integer matrix, prints it and calculates the average value of a line chose by the user.
-6. [Sports Lottery](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/SportsLottery.java) -A program that generates randomly an array with 13 numbers, between 1 and 3, tha represents the result ao Sports lottery, then generates many bets the user wants, and verify if any of them has won the lottery. 
+6. [Sports Lottery](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/SportsLottery.java) -A program that generates randomly an array with 13 numbers, between 1 and 3, tha represents the result ao Sports lottery, then generates many bets the user wants, and verify if any of them has won the lottery.
 7. [Grades Verify](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/GradesVerify.java) -A program that generates randomly an array (with 10 positions) G, with the correct answers, a matrix 10x10 to the answers of 10 students, and an array with the name of the 10 students, compares the answers and if the student have 6 or more correct answers, the program prints: "the student's name" was APPROVED!!, else prints: "the student's name" FAILED!!.
 8. [Find Number](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/FindNumber.java) -A program that generates randomly an array with 10 integer values, then the user enters a number that they want search, then the program returns if the number is in the set.
 9. [Matrix Operations](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/MatrixOperations.java) -A program that generates randomly a 3x5 matrix, save the sum of line elements in an array, save the sum of column elements in an array, then print the matrix, the array with line elements sum and the array with column elements sum.
@@ -116,7 +121,7 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 16. [Find Name](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/FindName.java) -A program that receives 10 names, saves in an array, then recives another name and searches in the array for this name, if it finds print the message "Found!", else prints "Not found!"
 17. [Salary Sense](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula4/SalarySense.java) -A program that receives salaries and children number, and calculates, the average salary, the average children number, the higher salary, and the percentage of interviewees that have salarys under $150,00. to and the program you need to enter a negative salary.
 
-#### Class 5
+#### Programming Logic - Class 5
 
 1. [Cigarette Money](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/CigaretteMoney.java) - A program that receives the number of years smoked, how many cigarettes smoked a day and the price of cigarette pack (20 cigarettes), and calculates how much did you spent on cigarette already.
 2. [Paycheck](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/Paycheck.java) - A program that receives the payment per hour and number of hours horked per mounth, then calculates union dues, FGTS, income tax and net salary.
@@ -129,12 +134,12 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 9. [Weight Arithimetic Average](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/WeightArithimeticAverage.java) - A program that asks to choose an option(1 - Arithimetic averag; 2 - Weight average; 0 - exit) and, if is a valid option calculates and prints the type os average chosen.
 10. [Film Survey](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula5/FilmSurvey.java) - A program that asks 5 viewers their opinion about a film, then prints the average age of viewers who rated the film as great,the number of viewers who rated the film as regular and the percentage of viewers who rated the film as good.
 
-#### Class 6
+#### Programming Logic - Class 6
 
 1. [Jump Competition](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/JumpCompetition.java) - A program that receives many competidors names and jumps as you want, and print their results in the end.
 2. [Paint Store](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/PaintStore.java) - A program that receives an area to be painted, and calculates the amount of paint cans needed and their value.
-3. [Fishing Fine](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/FishingFine.java) - A program that receves the amount kg of fish cought, and if it exceeds the maximun allowed, calculates the fishing fine due. 
-4. [Traffic Statistics](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/TrafficStatistics.java) - A program that receives traffic statistcs of 5 cities, and print some of it. 
+3. [Fishing Fine](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/FishingFine.java) - A program that receves the amount kg of fish cought, and if it exceeds the maximun allowed, calculates the fishing fine due.
+4. [Traffic Statistics](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/TrafficStatistics.java) - A program that receives traffic statistcs of 5 cities, and print some of it.
 5. [Ideal Weight](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/IdealWeight.java) - A program that receives a hight and a gender, then calculates your ideal weight
 6. [Paint Store 1](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/PaintStore1.java) - A program that receives an area to be painted, and calculates the amount of paint 18L cans, or 3,6L gallons, needed and their value.
 7. [Car Comparison](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/CarComparison.java) - A program that receives an array of car models and an array of car consumption, and prints them, then prints a consumption report.
