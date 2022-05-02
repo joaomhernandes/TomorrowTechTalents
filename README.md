@@ -21,18 +21,18 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 ### Table of Contents
 
 1. [Coding Tank](#coding-tank)
-2. Training Program - Programming Logic
-  - [Programming Logic - Class 1](#programming-logic---class-1)
-  - [Programming Logic - Class 2](#programming-logic---class-2)
-  - [Programming Logic - Class 3](#programming-logic---class-3)
-  - [Programming Logic - Class 4](#programming-logic---class-4)
-  - [Programming Logic - Class 5](#programming-logic---class-5)
-  - [Programming Logic - Class 6](#programming-logic---class-6)
-3. Object Oriented Programming
-4. Programming Techniques
-5. Web Programming
-6. Software Architecture
-7. Automated tests
+2. [Training Program - Programming Logic](#training-program---programming-logic)
+   - [Programming Logic - Class 1](#programming-logic---class-1)
+   - [Programming Logic - Class 2](#programming-logic---class-2)
+   - [Programming Logic - Class 3](#programming-logic---class-3)
+   - [Programming Logic - Class 4](#programming-logic---class-4)
+   - [Programming Logic - Class 5](#programming-logic---class-5)
+   - [Programming Logic - Class 6](#programming-logic---class-6)
+3. [Object-Oriented Programming](#training-program---object-oriented-programming)
+4. [Programming Techniques](#training-program---programming-techniques)
+5. [Web Programming](#training-program---web-programming)
+6. [Software Architecture](#training-program---software-architecture)
+7. [Automated tests](#training-program---automated-tests)
 
 ### Coding Tank
 
@@ -57,7 +57,7 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
     separates the even and the odd numbers, then prints the evens ones first, then prints the odds ones, converts inchs to centimeters, to learn about Scanner, loops, conditionals and arrays.
 19. [Tik Tak Toe](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/tikTakToe) - The last exercise proposed in the Coding Tank, Tik Tak Toe. A basic logic was implemented without much concern for the application architecture. The main intention was to try to use Java Swing to give a better aesthetic to the application.
 
-### Training Program
+### Training Program - Programming Logic
 
 #### Programming Logic - Class 1
 
@@ -143,6 +143,16 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 5. [Ideal Weight](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/IdealWeight.java) - A program that receives a hight and a gender, then calculates your ideal weight
 6. [Paint Store 1](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/PaintStore1.java) - A program that receives an area to be painted, and calculates the amount of paint 18L cans, or 3,6L gallons, needed and their value.
 7. [Car Comparison](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/aula6/CarComparison.java) - A program that receives an array of car models and an array of car consumption, and prints them, then prints a consumption report.
+
+### Training Program - Object-Oriented Programming
+
+### Training Program - Programming Techniques
+
+### Training Program - Web Programming
+
+### Training Program - Software Architecture
+
+### Training Program - Automated tests
 
 ## Contato
 
