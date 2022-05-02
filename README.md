@@ -20,13 +20,14 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 
 ### Table of Contents
 
-1. [Coding Tank](#coding-tank)
-2. [Training Program - Class 1](#class-1)
-3. [Training Program - Class 2](#class-2)
-4. [Training Program - Class 3](#class-3)
-5. [Training Program - Class 4](#class-4)
-6. [Training Program - Class 5](#class-5)
-7. [Training Program - Class 6](#class-6)
+| Module                  	     |                                                                            Activities                                                                                                                                                                     	                                                                            |
+|-------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Programming Logic           	 |1.  [Coding Tank] ( #coding-tank )<br>2.  [Training Program - Class 1] ( #class-1 )<br>3.  [Training Program - Class 2] ( #class-2 )<br>4.  [Training Program - Class 3] ( #class-3 )<br>5.  [Training Program - Class 4] ( #class-4 )<br>6.  [Training Program - Class 5] ( #class-5 )<br>7.  [Training Program - Class 6] ( #class-6) |
+| Object Oriented Programming 	 |                                                                                                                                                                   	                                                                                                                                                                    |
+| Programming Techniques      	 |                                                                                                                                                                   	                                                                                                                                                                    |
+| Web Programming             	 |                                                                                                                                                                   	                                                                                                                                                                    |
+| Software Architecture       	 |                                                                                                                                                                   	                                                                                                                                                                    |
+| Automated tests             	 |                                                                                                                                                                   	                                                                                                                                                                    |
 
 ### Coding Tank
 
