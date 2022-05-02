@@ -28,11 +28,11 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
    - [Programming Logic - Class 4](#programming-logic---class-4)
    - [Programming Logic - Class 5](#programming-logic---class-5)
    - [Programming Logic - Class 6](#programming-logic---class-6)
-3. [Object-Oriented Programming](#training-program---object-oriented-programming)
-4. [Programming Techniques](#training-program---programming-techniques)
-5. [Web Programming](#training-program---web-programming)
-6. [Software Architecture](#training-program---software-architecture)
-7. [Automated tests](#training-program---automated-tests)
+3. [Training Program - Object-Oriented Programming](#training-program---object-oriented-programming)
+4. [Training Program - Programming Techniques](#training-program---programming-techniques)
+5. [Training Program - Web Programming](#training-program---web-programming)
+6. [Training Program - Software Architecture](#training-program---software-architecture)
+7. [Training Program - Automated tests](#training-program---automated-tests)
 
 ### Coding Tank
 
