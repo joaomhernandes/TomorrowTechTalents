@@ -22,12 +22,12 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 
 1. [Coding Tank](#coding-tank)
 2. Training Program - Programming Logic
-  1. [Programming Logic - Class 1](#programming-logic---class-1)
-  2. [Programming Logic - Class 2](#programming-logic---class-2)
-  3. [Programming Logic - Class 3](#programming-logic---class-3)
-  4. [Programming Logic - Class 4](#programming-logic---class-4)
-  5. [Programming Logic - Class 5](#programming-logic---class-5)
-  6. [Programming Logic - Class 6](#programming-logic---class-6)
+  - [Programming Logic - Class 1](#programming-logic---class-1)
+  - [Programming Logic - Class 2](#programming-logic---class-2)
+  - [Programming Logic - Class 3](#programming-logic---class-3)
+  - [Programming Logic - Class 4](#programming-logic---class-4)
+  - [Programming Logic - Class 5](#programming-logic---class-5)
+  - [Programming Logic - Class 6](#programming-logic---class-6)
 3. Object Oriented Programming
 4. Programming Techniques
 5. Web Programming
