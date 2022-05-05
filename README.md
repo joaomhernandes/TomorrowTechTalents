@@ -146,6 +146,10 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 
 ### Training Program - Object-Oriented Programming
 
+### Object-Oriented Programming - Class 1
+
+1. [Soccer Team Manager](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass1) - A program that manages a soccer team, according to these [instructions](https://docs.google.com/document/d/15vFf900ryzoD2SCgMlkVl2lxr-bVY-OTqSHJuJKSmYY/edit?usp=sharing).
+
 ### Training Program - Programming Techniques
 
 ### Training Program - Web Programming
