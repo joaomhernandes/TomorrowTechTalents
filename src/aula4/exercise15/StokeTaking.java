@@ -9,7 +9,6 @@
 */
 
 package aula4.exercise15;
-
 import java.util.Scanner;
 
 public class StokeTaking {
