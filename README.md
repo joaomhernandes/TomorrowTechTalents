@@ -29,6 +29,9 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
    - [Programming Logic - Class 5](#programming-logic---class-5)
    - [Programming Logic - Class 6](#programming-logic---class-6)
 3. [Training Program - Object-Oriented Programming](#training-program---object-oriented-programming)
+   - [Object-Oriented Programming - Class 1](#object-oriented-programming---class-1)
+   - [Object-Oriented Programming - Class 2](#object-oriented-programming---class-2)
+   - [Object-Oriented Programming - Class 3](#object-oriented-programming---class-3)
 4. [Training Program - Programming Techniques](#training-program---programming-techniques)
 5. [Training Program - Web Programming](#training-program---web-programming)
 6. [Training Program - Software Architecture](#training-program---software-architecture)
@@ -148,11 +151,15 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 
 #### Object-Oriented Programming - Class 1
 
-[Soccer Team Manager](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass1) - A program that manages a soccer team, according to these [instructions](https://docs.google.com/document/d/15vFf900ryzoD2SCgMlkVl2lxr-bVY-OTqSHJuJKSmYY/edit?usp=sharing).
+ - [Soccer Team Manager](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass1) - A program that manages a soccer team, according to these [instructions](https://docs.google.com/document/d/15vFf900ryzoD2SCgMlkVl2lxr-bVY-OTqSHJuJKSmYY/edit?usp=sharing).
 
-#### Object-Oriented Programming - Class 1
+#### Object-Oriented Programming - Class 2
 
-[Stock Manager](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass2) - A program that manages stocks, according to instructions in the [README.md](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass2/README.MD).
+ - [Stock Manager](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass2) - A program that manages stocks, according to instructions in the [README.md](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass2/README.MD).
+
+#### Object-Oriented Programming - Class 3
+
+- [Stock Manager](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass3) - A program that manages schools, according to instructions in the [README.md](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass3/README.MD).
 
 ### Training Program - Programming Techniques
 
