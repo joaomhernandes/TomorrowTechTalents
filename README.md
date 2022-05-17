@@ -32,6 +32,7 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
    - [Object-Oriented Programming - Class 1](#object-oriented-programming---class-1)
    - [Object-Oriented Programming - Class 2](#object-oriented-programming---class-2)
    - [Object-Oriented Programming - Class 3](#object-oriented-programming---class-3)
+   - [Object-Oriented Programming - Class 4](#object-oriented-programming---class-4)
 4. [Training Program - Programming Techniques](#training-program---programming-techniques)
 5. [Training Program - Web Programming](#training-program---web-programming)
 6. [Training Program - Software Architecture](#training-program---software-architecture)
@@ -159,7 +160,11 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 
 #### Object-Oriented Programming - Class 3
 
-- [Stock Manager](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass3) - A program that manages schools, according to instructions in the [README.md](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass3/README.MD).
+- [School Manager](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass3) - A program that manages schools, according to instructions in the [README.md](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass3/README.MD).
+
+#### Object-Oriented Programming - Class 4
+
+- [RPG Game](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass4) - A program that simulates an RPG game, according to instructions in the [README.md](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass4/README.MD).
 
 ### Training Program - Programming Techniques
 
