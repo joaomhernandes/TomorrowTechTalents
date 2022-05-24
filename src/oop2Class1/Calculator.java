@@ -18,36 +18,26 @@ public class Calculator {
                     4 - Division.
                     0 - Exit.""");
             menuOption = in.nextInt();
+            System.out.println("Enter the first number.");
+            firstNumber = in.nextDouble();
+            System.out.println("Enter the second number.");
+            secondNumber = in.nextDouble();
+
             switch (menuOption) {
                 case 1 -> {
-                    System.out.println("Enter the first number.");
-                    firstNumber = in.nextDouble();
-                    System.out.println("Enter the second number.");
-                    secondNumber = in.nextDouble();
                     operation = new Sum();
                     operation.Calculate(firstNumber, secondNumber);
                 }
                 case 2 -> {
-                    System.out.println("Enter the first number.");
-                    firstNumber = in.nextDouble();
-                    System.out.println("Enter the second number.");
-                    secondNumber = in.nextDouble();
+
                     operation = new Subtraction();
                     operation.Calculate(firstNumber, secondNumber);
                 }
                 case 3 -> {
-                    System.out.println("Enter the first number.");
-                    firstNumber = in.nextDouble();
-                    System.out.println("Enter the second number.");
-                    secondNumber = in.nextDouble();
                     operation = new Multiplication();
                     operation.Calculate(firstNumber, secondNumber);
                 }
                 case 4 -> {
-                    System.out.println("Enter the first number.");
-                    firstNumber = in.nextDouble();
-                    System.out.println("Enter the second number.");
-                    secondNumber = in.nextDouble();
                     operation = new Division();
                     operation.Calculate(firstNumber, secondNumber);
                 }
