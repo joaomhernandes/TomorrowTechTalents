@@ -7,6 +7,7 @@ public class Game {
         Giant giant = new Giant("Alexandre o grande");
         Snake snake = new Snake("Anaconda");
         Enemy enemy = new Enemy("Peão 1");
+        Actions snake2 = new Snake("cobra");
 
         joao.interact();
         dracula.interact();
