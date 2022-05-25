@@ -9,6 +9,6 @@ public class Multiplication extends Operation{
     @Override
     public void Calculate(double firstNumber, double secondNumber) {
         Scanner in = new Scanner(System.in);
-        System.out.printf("%.2f * %.2f = %.2f\n",firstNumber, secondNumber, firstNumber * secondNumber);
+        System.out.printf("%.2f * %.2f = %.2f\n\n",firstNumber, secondNumber, firstNumber * secondNumber);
     }
 }

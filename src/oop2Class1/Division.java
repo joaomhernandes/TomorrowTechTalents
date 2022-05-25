@@ -9,9 +9,9 @@ public class Division extends Operation{
     @Override
     public void Calculate(double firstNumber, double secondNumber) {
         if(secondNumber!=0){
-            System.out.printf("%.2f / %.2f = %.2f\n",firstNumber, secondNumber, firstNumber / secondNumber);
+            System.out.printf("%.2f / %.2f = %.2f\n\n",firstNumber, secondNumber, firstNumber / secondNumber);
         }else {
-            System.out.println("Impossible to divide by 0");
+            throw new ArithmeticException("Impossible to divide by 0");
         }
     }
 }
