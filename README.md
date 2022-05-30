@@ -178,7 +178,7 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 
 #### Object-Oriented Programming II - Class 2
 
-- [Card Game](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class2) - A Card Game program, according to these [instructions](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class2/README.MD).
+- [Card Game](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class2) - A Card Game program, according to these [instructions](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class2/README.md).
 
 ### Training Program - Programming Techniques
 
