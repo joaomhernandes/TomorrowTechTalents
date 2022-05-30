@@ -29,12 +29,14 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
    - [Programming Logic - Class 5](#programming-logic---class-5)
    - [Programming Logic - Class 6](#programming-logic---class-6)
 3. [Training Program - Object-Oriented Programming I](#training-program---object-oriented-programming-i)
-   - [Object-Oriented Programming - Class 1](#object-oriented-programming-i---class-1)
-   - [Object-Oriented Programming - Class 2](#object-oriented-programming-i---class-2)
-   - [Object-Oriented Programming - Class 3](#object-oriented-programming-i---class-3)
-   - [Object-Oriented Programming - Class 4](#object-oriented-programming-i---class-4)
+   - [Object-Oriented Programming I - Class 1](#object-oriented-programming-i---class-1)
+   - [Object-Oriented Programming I - Class 2](#object-oriented-programming-i---class-2)
+   - [Object-Oriented Programming I - Class 3](#object-oriented-programming-i---class-3)
+   - [Object-Oriented Programming I - Class 4](#object-oriented-programming-i---class-4)
 4. [Training Program - Object-Oriented Programming II](#training-program---object-oriented-programming-ii)
    - [Object-Oriented Programming II - Class 1](#object-oriented-programming-ii---class-1)
+   - [Object-Oriented Programming II - Class 2](#object-oriented-programming-ii---class-2)
+
 5. [Training Program - Programming Techniques](#training-program---programming-techniques)
 6. [Training Program - Web Programming](#training-program---web-programming)
 7. [Training Program - Software Architecture](#training-program---software-architecture)
@@ -173,6 +175,10 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 #### Object-Oriented Programming II - Class 1
 
 - [interface test](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class1) - A interface test, according to these [instructions](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class1/README.MD).
+
+#### Object-Oriented Programming II - Class 2
+
+- [Card Game](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class2) - A Card Game program, according to these [instructions](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class2/README.MD).
 
 ### Training Program - Programming Techniques
 
