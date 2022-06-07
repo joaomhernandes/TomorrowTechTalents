@@ -57,7 +57,6 @@ public class Book extends Product {
                 Writer: %s
                 Publisher: %s
                 Price: $%.2f
-                
                 """,
                 getName(),getId(),getGenre(),getWriter(),getPublisher(),getPrice());
 

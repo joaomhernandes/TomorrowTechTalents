@@ -70,7 +70,6 @@ public class Movie extends Product{
                 Producers: %s
                 Studio: %s
                 Price: $%.2f
-                
                 """,
                 getName(),getId(),getGenre(),getDirectors().toString(),getProducers().toString(),getStudio(),getPrice());
     }

@@ -58,7 +58,6 @@ public class MusicAlbum extends Product{
                 Musisians/Bands: %s
                 Stamps: %s
                 Price: $%.2f
-                
                 """,
                 getName(),getId(),getGenre(),getMusisians().toString(),getStamps().toString(),getPrice());
     }

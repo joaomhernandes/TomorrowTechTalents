@@ -56,7 +56,6 @@ public class Game extends Product{
                 Distributor: %s
                 Studio: %s
                 Price: $%.2f
-                
                 """,
                 getName(),getId(),getGenre(),getDistributor(),getStudio(),getPrice());
     }

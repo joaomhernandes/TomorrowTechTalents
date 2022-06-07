@@ -32,7 +32,6 @@ public class Toy extends Product{
                 ID: %d
                 Type: %s
                 Price: $%.2f
-                
                 """,
                 getName(),getId(),getToyType(),getPrice());
     }
