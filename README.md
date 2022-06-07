@@ -36,6 +36,7 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 4. [Training Program - Object-Oriented Programming II](#training-program---object-oriented-programming-ii)
    - [Object-Oriented Programming II - Class 1](#object-oriented-programming-ii---class-1)
    - [Object-Oriented Programming II - Class 2](#object-oriented-programming-ii---class-2)
+   - [Object-Oriented Programming II - Class 3](#object-oriented-programming-ii---class-3)
 
 5. [Training Program - Programming Techniques](#training-program---programming-techniques)
 6. [Training Program - Web Programming](#training-program---web-programming)
@@ -179,6 +180,10 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 #### Object-Oriented Programming II - Class 2
 
 - [Card Game](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class2) - A Card Game program, according to these [instructions](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class2/README.MD).
+
+#### Object-Oriented Programming II - Class 3
+
+- [Book Store](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class2) - A program that manages a book store, according to these [instructions](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class3/README.MD).
 
 ### Training Program - Programming Techniques
 

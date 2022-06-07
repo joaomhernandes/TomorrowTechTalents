@@ -32,4 +32,14 @@ public abstract class Card {
         this.cost = cost;
     }
     public abstract void flipCard();
+
+    @Override
+    public String toString() {
+        return "Card{" +
+                "name='" + name + '\'' +
+                ", type=" + type +
+                ", cost=" + cost +
+                ", flipped=" + flipped +
+                '}';
+    }
 }
