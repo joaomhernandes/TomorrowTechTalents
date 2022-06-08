@@ -161,15 +161,15 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 
 #### Object-Oriented Programming I - Class 2
 
- - [Stock Manager](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass2) - A program that manages stocks, according to instructions in the [README.md](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass2/README.MD).
+ - [Stock Manager](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass2) - A program that manages stocks, according to instructions in the [README.md](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass2/README.md).
 
 #### Object-Oriented Programming I - Class 3
 
-- [School Manager](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass3) - A program that manages schools, according to instructions in the [README.md](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass3/README.MD).
+- [School Manager](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass3) - A program that manages schools, according to instructions in the [README.md](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass3/README.md).
 
 #### Object-Oriented Programming I - Class 4
 
-- [RPG Game](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass4) - A program that simulates an RPG game, according to instructions in the [README.md](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass4/README.MD).
+- [RPG Game](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass4) - A program that simulates an RPG game, according to instructions in the [README.md](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oopClass4/README.md).
 
 ### Training Program - Object-Oriented Programming II
 
@@ -183,7 +183,7 @@ Is a 5 months course, with 430 hours. Where will be seen, Programming Logic, Obj
 
 #### Object-Oriented Programming II - Class 3
 
-- [Book Store](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class2) - A program that manages a book store, according to these [instructions](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class3/README.MD).
+- [Book Store](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class3) - A program that manages a book store, according to these [instructions](https://github.com/joaomhernandes/TomorrowTechTalents/blob/main/src/oop2Class3/README.md).
 
 ### Training Program - Programming Techniques
 
